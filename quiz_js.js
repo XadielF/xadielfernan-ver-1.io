@@ -115,6 +115,7 @@
         },
         correctAnswer: "c"
       },
+      
       {
         question: "Which one of these is a JavaScript package manager?",
         answers: {
@@ -124,6 +125,7 @@
         },
         correctAnswer: "c"
       },
+
       {
         question: "Which tool can you use to ensure code quality?",
         answers: {
@@ -132,8 +134,18 @@
           c: "RequireJS",
           d: "ESLint"
         },
-        correctAnswer: "d"
-      }
+        correctAnswer: "d",
+      },
+
+      {
+        question: "",
+
+        answers: {
+
+        },
+        correctAnswer: "",
+      },
+
     ];
   
     // Kick things off

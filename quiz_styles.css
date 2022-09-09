@@ -1,12 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Work+Sans:300,600);
-
 body{
-    font-size: 20px;
-    font-family: 'Work Sans', sans-serif;
-    color: #333;
-  font-weight: 300;
-  text-align: center;
-  background-color: #f8f6f0;
+  font-size: 30px;
+  font-family: Arial;
+  color: rgb(0, 0, 0);
+  font-weight: 700;
+  text-align: left;
+  background-color: #b3aea1;
 }
 
 .topnav {
@@ -39,7 +37,7 @@ h1{
   margin: 0px;
   padding: 10px;
   font-size: 20px;
-  background-color: #444;
+  background-color:  #ad0f0f;
   color: #fff;
 }
 .question{
@@ -58,16 +56,16 @@ h1{
 button{
   font-family: 'Work Sans', sans-serif;
     font-size: 22px;
-    background-color: #279;
-    color: #fff;
+    background-color: rgb(0, 0, 0);
+    color: #ad0f0f;
     border: 0px;
-    border-radius: 3px;
+    border-radius: 8px;
     padding: 20px;
     cursor: pointer;
     margin-bottom: 20px;
 }
 button:hover{
-    background-color: #38a;
+    background-color: rgb(255, 255, 255);
 }
 
 

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<textbooks>
+    <textbook>
+        <title>Computer Networking A Top Down Approach</title>
+        <authors>
+            <author>
+                <firstName>James F.</firstName>
+                <lastName>Kruose</lastName>
+            </author>
+            <author>
+                <firstName>Keith W.</firstName>
+                <lastName>Ross</lastName>
+            </author>
+        </authors>
+        <publisher>
+            <name>Pearson</name>
+            <website>www.pearson.com</website>
+        </publisher>
+        <Year-of-Publication>2017</Year-of-Publication>
+        <ISBN>978-0133594140</ISBN>
+        <book-specific-website>abc</book-specific-website>
+        <edition>7</edition>
+        <cover-type>Paperback</cover-type>
+    </textbook>
+    <textbook>
+        <title>Physics for Scientists and Engineers with Modern Physics</title>
+        <authors>
+            <author>
+                <firstName>Raymond</firstName>
+                <lastName>Serway</lastName>
+            </author>
+        </authors>
+        <publisher>
+            <name>Cengage Learning</name>
+            <website>www.cengage.com</website>
+        </publisher>
+        <Year-of-Publication>2019</Year-of-Publication>
+        <ISBN>9780357538883</ISBN>
+        <book-specific-website>def</book-specific-website>
+        <edition>10</edition>
+        <cover-type>Hardcover</cover-type>
+    </textbook>
+</textbooks>
